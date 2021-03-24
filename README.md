@@ -4,17 +4,6 @@
 
 You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
 
-### Before You Begin
-
-1. Create a new repository for this project called `VBA-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for both of the VBA Challenges. Use the folder name to correspond to the challenge: **VBAStocks**.
-
-4. Inside the folder that you just created, add any VBA files. These will be the main scripts to run for each analysis.
-
-5. Push the above changes to GitHub or GitLab.
 
 ### Files
 
@@ -58,15 +47,6 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * Make sure that the script acts the same on each sheet. The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
 
-## Submission
-
-* To submit please upload the following to Github:
-
-  * A screen shot for each year of your results on the Multi Year Stock Data.
-
-  * VBA Scripts as separate files.
-
-* After everything has been saved, create a sharable link and submit that to <https://bootcampspot-v2.com/>.
 
 - - -
 
